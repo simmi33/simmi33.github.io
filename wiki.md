@@ -1,5 +1,5 @@
 # University of Washington (UW)
-![](https://en.wikipedia.org/wiki/University_of_Washington#/media/File:University_of_Washington_seal.svg)
+![University of Washington](https://en.wikipedia.org/wiki/University_of_Washington#/media/File:University_of_Washington_seal.svg)
 
 
 The **University of Washington (UW)**, located in *Seattle, Washington*, is one of the **leading public research universities** in the United States. Established in **1861**, it offers a wide range of undergraduate, graduate, and professional programs across various fields of study. With a strong emphasis on **innovation** and **diversity**, UW is renowned for its contributions to science, technology, and global research initiatives.
